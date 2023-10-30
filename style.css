@@ -1,5 +1,7 @@
 header {
   margin-block-start: 10px;
 }
-.filter {
+
+.pagination {
+  margin: 7px;
 }

@@ -1,1 +1,2 @@
-const pagi;
+let filter = 0;
+const pagi = null;
